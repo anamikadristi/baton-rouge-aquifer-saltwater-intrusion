@@ -1,0 +1,23 @@
+{
+ "cl_fresh_mgL": 4.0,
+ "n_fresh_wells": 11,
+ "cl_saline_median_south_mgL": 661.0,
+ "n_saline_samples": 70,
+ "n_saline_wells": 4,
+ "cl_saline_max_in_sand_mgL": 3910.0,
+ "near_fault_wells_since2000": 22,
+ "near_fault_wells_over_1pct_saline_maxEM": 3,
+ "sc_cl_n": 3321,
+ "sc_cl_slope": 0.360649245994391,
+ "sc_cl_intercept": -155.43566173998877,
+ "sc_cl_r2": 0.991746924622517,
+ "gradient_wells": 8,
+ "gradient_m_per_m": 0.0029470095059230842,
+ "head_range_ft": [
+  -203.87333333333333,
+  16.65
+ ],
+ "apparent_front_speed_m_per_yr": 50.22222222222688,
+ "apparent_front_wells": 2,
+ "ogata_banks_v_m_per_yr": 50.22222222222688
+}

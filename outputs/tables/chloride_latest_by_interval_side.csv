@@ -1,0 +1,7 @@
+interval,side,wells,median_cl,over_250
+"deep (2,000- to 2,800-foot sands)",north,79,3.41,4
+"deep (2,000- to 2,800-foot sands)",south,4,365.00,2
+"intermediate (1,000- to 1,700-foot sands)",north,64,4.42,6
+"intermediate (1,000- to 1,700-foot sands)",south,2,2290.00,2
+shallow (400- to 800-foot sands),north,36,4.33,1
+shallow (400- to 800-foot sands),south,2,165.00,1

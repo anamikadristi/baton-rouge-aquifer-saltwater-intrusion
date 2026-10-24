@@ -1,0 +1,4 @@
+interval,n_north,variogram,loocv_rmse_log10,null_rmse_log10,loocv_skill,variogram_params
+shallow,36,exponential,0.569,0.529,-0.159,0.123;0.108;0.175
+intermediate,64,spherical,0.894,0.819,-0.189,0.305;3.79;0.355
+deep,79,spherical,0.557,0.636,0.234,0.227;4.34;0.209

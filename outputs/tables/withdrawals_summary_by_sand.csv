@@ -1,0 +1,25 @@
+sand,1975,2016,peak_year,peak_mgd,area
+"1,000-foot sand",4.84,9.18,2014,10.42,East Baton Rouge Parish
+"1,200-foot sand",16.51,22.07,2016,22.07,East Baton Rouge Parish
+"1,500-foot sand",15.99,17.03,2003,22.06,East Baton Rouge Parish
+"1,700-foot sand",3.91,10.48,2013,10.90,East Baton Rouge Parish
+"2,000-foot sand",33.43,19.85,1982,38.99,East Baton Rouge Parish
+"2,400-foot sand",15.79,20.39,2016,20.39,East Baton Rouge Parish
+"2,800-foot sand",24.53,28.55,2012,32.37,East Baton Rouge Parish
+400-foot sand,0.00,0.00,1940,0.00,East Baton Rouge Parish
+600-foot sand,9.53,3.17,1943,14.59,East Baton Rouge Parish
+800-foot sand,0.19,6.89,2011,7.29,East Baton Rouge Parish
+confining-unit cells,0.01,0.02,2015,0.02,East Baton Rouge Parish
+total,124.71,137.64,2010,144.57,East Baton Rouge Parish
+"1,000-foot sand",6.49,11.64,2014,12.69,model domain
+"1,200-foot sand",17.26,24.17,2014,24.44,model domain
+"1,500-foot sand",17.76,20.15,2003,24.34,model domain
+"1,700-foot sand",5.19,17.21,2015,18.00,model domain
+"2,000-foot sand",36.14,26.14,1982,42.68,model domain
+"2,400-foot sand",19.79,29.08,2016,29.08,model domain
+"2,800-foot sand",29.06,35.72,2000,41.56,model domain
+400-foot sand,0.00,0.00,1940,0.00,model domain
+600-foot sand,10.33,5.07,1943,14.98,model domain
+800-foot sand,1.60,8.48,2015,8.55,model domain
+confining-unit cells,0.10,0.11,1996,0.16,model domain
+total,143.73,177.76,2006,186.70,model domain

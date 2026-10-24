@@ -1,0 +1,4 @@
+near_fault,side,wells,increasing,decreasing,median_sen
+False,north,4,2,1,0.452
+True,north,67,29,4,0.010
+True,south,23,12,4,0.094

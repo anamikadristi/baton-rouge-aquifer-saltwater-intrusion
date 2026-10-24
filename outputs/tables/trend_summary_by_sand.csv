@@ -1,0 +1,25 @@
+sand,period,wells,rising_sig,falling_sig,median_sen_ft_per_yr
+Shallow sands,full,4,2,0,0.130
+Mississippi River alluvial,full,2,0,0,-0.112
+400-foot sand,full,18,7,3,0.091
+400- and 600-foot sands,full,3,0,0,-1.245
+600-foot sand,full,14,4,2,0.418
+800-foot sand,full,5,0,1,-0.070
+"1,000-foot sand",full,2,0,2,-0.602
+"1,200-foot sand",full,14,1,11,-2.056
+"1,200- and 1,500-foot sands",full,1,0,1,-5.309
+"1,500-foot sand",full,16,1,12,-1.189
+"1,700-foot sand",full,4,0,2,-0.391
+"2,000-foot sand",full,15,2,5,-0.420
+"2,400-foot sand",full,7,0,5,-1.079
+"2,800-foot sand",full,9,2,6,-1.521
+400-foot sand,2000_on,8,2,0,0.217
+600-foot sand,2000_on,6,0,1,-0.325
+800-foot sand,2000_on,3,0,0,0.044
+"1,000-foot sand",2000_on,2,0,0,-0.115
+"1,200-foot sand",2000_on,5,1,2,-0.023
+"1,500-foot sand",2000_on,6,2,0,0.224
+"1,700-foot sand",2000_on,3,1,0,1.390
+"2,000-foot sand",2000_on,8,5,0,1.849
+"2,400-foot sand",2000_on,6,0,2,-0.464
+"2,800-foot sand",2000_on,5,1,0,0.444
